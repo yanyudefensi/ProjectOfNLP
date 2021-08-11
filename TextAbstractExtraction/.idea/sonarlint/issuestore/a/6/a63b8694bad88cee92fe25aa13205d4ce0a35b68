@@ -1,0 +1,6 @@
+
+;python:S1259"Remove this commented out code.(áøÑ²ûÿÿÿÿ
+`python:S1192#"HDefine a constant instead of duplicating this literal r"\1\n\2" 3 times.(ó‹ô¼
+wpython:S117M"[Rename this local variable "fileObject" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨´ªıÿÿÿÿ
+vpython:S1192§"XDefine a constant instead of duplicating this literal 'wiki_han_word2vec.model' 7 times.(Ù€Àïÿÿÿÿÿ
+qpython:S1192©"XDefine a constant instead of duplicating this literal "æˆåŠŸè®­ç»ƒ{}æ¬¡æ¨¡å‹" 5 times.(âè

@@ -1,0 +1,36 @@
+
+ypython:S117†"aRename this local variable "knnSimilarities8" to match the regular expression ^[_a-z][a-z0-9_]*$.(ó¹òÖ
+}python:S117x"aRename this local variable "knnSimilarities1" to match the regular expression ^[_a-z][a-z0-9_]*$.(øÄ’úÿÿÿÿ
+;python:S125c"Remove this commented out code.(÷‰±¥şÿÿÿÿ
+lpython:S117"URename this parameter "splitChar" to match the regular expression ^[_a-z][a-z0-9_]*$.(…°ìÿ
+rpython:S117Q"[Rename this local variable "contentVec" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘ó¢Å
+hpython:S100"QRename method "_splitText" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(…°ìÿ
+tpython:S117N"]Rename this local variable "sentencesVec" to match the regular expression ^[_a-z][a-z0-9_]*$.(àËÿé
+xpython:S117„"aRename this local variable "knnSimilarities7" to match the regular expression ^[_a-z][a-z0-9_]*$.(Öšál
+ypython:S117ˆ"aRename this local variable "knnSimilarities9" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ÷•á
+{python:S117w"_Rename this local variable "neighborWeight" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÚÌú¤úÿÿÿÿ
+qpython:S117"ZRename this parameter "neighborWeight" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ´öç
+wpython:S1172"[Rename this local variable "contentVec" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ä™…”ùÿÿÿÿ
+ƒpython:S117b"gRename this local variable "summarySentenceIndexes" to match the regular expression ^[_a-z][a-z0-9_]*$.(º’è„ùÿÿÿÿ
+Epython:S1481Š"'Remove the unused local variable "fig".(ñ²…Øüÿÿÿÿ
+}python:S117
+"aRename this parameter "word2VecModelFilePath" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú¤ì½øÿÿÿÿ
+xpython:S1171"\Rename this local variable "sentenceVec" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğÁØ€üÿÿÿÿ
+wpython:S117~"aRename this local variable "knnSimilarities4" to match the regular expression ^[_a-z][a-z0-9_]*$.(£­e
+lpython:S117>"URename this parameter "splitChar" to match the regular expression ^[_a-z][a-z0-9_]*$.(³ÃÜ»
+zpython:S117w"^Rename this local variable "neighborCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÚÌú¤úÿÿÿÿ
+ypython:S1192"[Define a constant instead of duplicating this literal "WeightSmooth NC:%d,NW:%.2f" 9 times.(ìºïÏşÿÿÿÿ
+zpython:S117"cRename this local variable "targetSimilarities" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡ˆò
+wpython:S117v"`Rename this local variable "knnSimilarities" to match the regular expression ^[_a-z][a-z0-9_]*$.(—…İ¯
+}python:S117z"aRename this local variable "knnSimilarities2" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢»Ò›şÿÿÿÿ
+wpython:S117."`Rename this local variable "similaritiesKnn" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘Æãà
+spython:S117
+"WRename this parameter "isUseThulac" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú¤ì½øÿÿÿÿ
+xpython:S117|"aRename this local variable "knnSimilarities3" to match the regular expression ^[_a-z][a-z0-9_]*$.(·úÇ•
+ppython:S117"YRename this local variable "sumValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆ¬Œ’
+xpython:S117‚"aRename this local variable "knnSimilarities6" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÕ•[
+npython:S100)"RRename method "_knnSmooth2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(†ªè„úÿÿÿÿ
+~python:S117€"aRename this local variable "knnSimilarities5" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ù‘Éªùÿÿÿÿ
+hpython:S100"QRename method "_knnSmooth" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ñ´öç
+xpython:S117f"aRename this local variable "summarySentences" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥â»À
+ppython:S117"YRename this parameter "neighborCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ´öç

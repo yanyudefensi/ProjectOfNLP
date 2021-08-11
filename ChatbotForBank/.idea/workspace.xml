@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="948a080c-40c5-4145-9db9-87369dfec280" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BERTandSeq2Seq/jack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BERTandSeq2Seq/模型部署.py" beforeDir="false" afterPath="$PROJECT_DIR$/BERTandSeq2Seq/模型部署.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataProcess/GetSentenceVector_GetSentencesSimilarity.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataProcess/GetSentenceVector_GetSentencesSimilarity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataProcess/TryKmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataProcess/TryKmeans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PDF-keyword-highlight/KeyWordGetter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PDF-keyword-highlight/KeyWordGetter.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="c01c7af1-4b72-48c1-9cd4-0aed1c9bfa57" />
+  <component name="ProjectId" id="1c9ttqHZb5A97EPeBjnWYnBv7hR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BERTandSeq2Seq" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.模型部署">
+    <configuration name="模型部署" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ChatbotForBank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BERTandSeq2Seq" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BERTandSeq2Seq/模型部署.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GetSentenceVector_GetSentencesSimilarity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ChatbotForBank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataProcess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataProcess/GetSentenceVector_GetSentencesSimilarity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ChatbotForBank" type="Python.FlaskServer">
+      <module name="ChatbotForBank" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.模型部署" />
+        <item itemvalue="Python.GetSentenceVector_GetSentencesSimilarity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="948a080c-40c5-4145-9db9-87369dfec280" name="Default Changelist" comment="" />
+      <created>1589952854493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589952854493</updated>
+      <workItem from="1589952856201" duration="602000" />
+      <workItem from="1589953938878" duration="1769000" />
+      <workItem from="1590328527105" duration="64000" />
+      <workItem from="1590333492052" duration="527000" />
+      <workItem from="1590483756976" duration="601000" />
+      <workItem from="1590488607286" duration="577000" />
+      <workItem from="1590547389264" duration="2848000" />
+      <workItem from="1590559461717" duration="1418000" />
+      <workItem from="1590836907585" duration="56000" />
+      <workItem from="1590985192351" duration="812000" />
+      <workItem from="1592735075963" duration="61000" />
+      <workItem from="1603722180746" duration="110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1603722292149">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1603722292149" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1603722292148">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1603722292148" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1603722292147">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1603722292147" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1603722292148">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1603722292148" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ChatbotForBank$.coverage" NAME="模型部署 Coverage Results" MODIFIED="1603722204333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BERTandSeq2Seq" />
+    <SUITE FILE_PATH="coverage/ChatbotForBank$GetSentenceVector_GetSentencesSimilarity.coverage" NAME="GetSentenceVector_GetSentencesSimilarity Coverage Results" MODIFIED="1590549320650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataProcess" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+
+npython:S1542q"VRename function "SIF_embedding" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ùÛÚ
+gpython:S15429"ORename function "getSeq" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÚæÌÜ
+;python:S125c"Remove this commented out code.(Àè×ûÿÿÿÿ
+epython:S117"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë¡¹ú
+qpython:S100Ç"TRename method "thulacCutWord" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(şéêŠúÿÿÿÿ
+kpython:S116µ"SRename this field "isUseThulac" to match the regular expression ^[_a-z][_a-z0-9]*$.(®ã¹‡
+jpython:S117"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘ùáîüÿÿÿÿ
+jpython:S1542!"RRename function "getWeight" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ú‰¸
+ipython:S1542D"QRename function "getIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©¥±
+rpython:S117:"[Rename this local variable "cutedWords" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñìÓì
+mpython:S117q"VRename this parameter "isRemovePC" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùÛÚ
+xpython:S117­"aRename this parameter "word2VecModelFilePath" to match the regular expression ^[_a-z][a-z0-9_]*$.(üÂÉq
+ipython:S116¯"RRename this field "isRemovePc" to match the regular expression ^[_a-z][_a-z0-9]*$.(’ÔÑ2
+ypython:S100¹"\Rename method "getSentencesEmbedding" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Æ´ÏÅúÿÿÿÿ
+npython:S117­"WRename this parameter "isUseThulac" to match the regular expression ^[_a-z][a-z0-9_]*$.(üÂÉq
+mpython:S117­"VRename this parameter "isRemovePc" to match the regular expression ^[_a-z][a-z0-9_]*$.(üÂÉq
+ppython:S117+"YRename this parameter "splitWordFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(·‰ƒ»
+ppython:S1179"YRename this parameter "splitWordFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÚæÌÜ
+5python:S125Y"Remove this commented out code.(á½€
+spython:S1542"VRename function "getWordWeight" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÎÄô³üÿÿÿÿ
